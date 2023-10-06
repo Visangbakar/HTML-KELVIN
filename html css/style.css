@@ -11,15 +11,15 @@ font-family: 'Lora', serif;
 body {
 display: flex;
 justify-content: center;
+height: auto;
 align-items: center;
-min-height: auto;
-min-width: auto;
+
 background-color: rgb(203, 109, 240);
 }
 
 .wrapper  {
 margin: 150px auto;
-width: 50%;
+width: 55%;
 height:  35px auto;
 }
 
